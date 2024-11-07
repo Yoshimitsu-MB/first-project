@@ -1,0 +1,9 @@
+.general-link_color_blue {
+  color:  #2f80ed;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity .5s ease-in-out;
+}
+.general-link_color_blue:hover{
+  opacity: 0.7;
+}
